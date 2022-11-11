@@ -26,18 +26,18 @@ SECRET = 'ThisIsATemporarySecretKey'
 In the `client` directory with the follow this steps.
 
 ```
-1. Open terminal in `client` directory
-2. Type `npm install` to install packages mentioned in `pacakge.json` file.
-3. Press `Enter` to install and wait untill installation completes.
+1. Open terminal in client directory
+2. Type npm install to install packages mentioned in pacakge.json file.
+3. Press Enter to install and wait untill installation completes.
 ```
 
 To Run the peoject follow this steps.
 
 ```
-1. Open `cmd` and run `mongod` command to start mongodb server
+1. Open cmd and run mongod command to start mongodb server
 2. Open terminal in the project directory
-3. Change directory to `online_e_voting_system/client` and Run `npm start`
-4. Open other termial and change directory to `online_e_voting_system/server`
-5 .Run `npm start`
+3. Change directory to online_e_voting_system/client and Run npm start
+4. Open other termial and change directory to online_e_voting_system/server
+5 .Run npm start
 6. Project will Run on 3000 port in browser and server will run on 4000 port
 ```
